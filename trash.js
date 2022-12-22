@@ -12,21 +12,20 @@ ASSIGNMENT RULES
 */ 
 
 //let mainDatatypes = /*numbers,operators,Modulo operator,OperatorsPrecedence,specialNumbers,Strings,
-let dataType1 = numbers;
-let datType2 = operators;
-let dataType3 = modulo;
-let dataType4 = operators-Precedence;
-let dataType5 = special-numbers;
-let dataType6 = strings;
-let dataType7 = booleans;
-let dataType8 = logic-operators;
+let dataType1 = "Numbers,";
+let dataType2 = "Operators,";
+let dataType3 = "Modulo,";
+let dataType4 = "Operators-Precedence,";
+let dataType5 = "Special-numbers,";
+let dataType6 = "Strings,";
+let dataType7 = "Booleans,";
+let dataType8 = "Logic-operators,";
 
-console.log ("there are some common datatypes in javaScript that are used regularly, they are a means to store variables for code /n the main ones are."),
-/n dataType1;  /n dataType2; /n dataType3, /n dataType4; /n dataType5; /n dataType6; /n dataType7; /n dataType8;
-
+console.log ("There are some common datatypes in javaScript that are used regularly, they are a means to store variables for code, the main ones are.")
+console.log (dataType1,  dataType2,  dataType3,  dataType4,  dataType5,  dataType6,  dataType7,  dataType8);
+console.log("These can be used as storage trunks like for leggos and can be taken out to build whatever is needed for your project")
 
   
-
 
 /* console.log ("Description of JavaScript main datatypes", )  */
 
