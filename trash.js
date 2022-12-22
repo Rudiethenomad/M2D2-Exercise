@@ -11,7 +11,7 @@ ASSIGNMENT RULES
  Enumerate and describe the main datatypes in JavaScript. Try to explain the concepts as you were speaking to a 12 years old.
 */ 
 
-/* let mainDatatypes = /*numbers,operators,Modulo operator,OperatorsPrecedence,specialNumbers,Strings,
+//let mainDatatypes = /*numbers,operators,Modulo operator,OperatorsPrecedence,specialNumbers,Strings,
 let dataType1 = numbers;
 let datType2 = operators;
 let dataType3 = modulo;
@@ -21,7 +21,10 @@ let dataType6 = strings;
 let dataType7 = booleans;
 let dataType8 = logic-operators;
 
-*/
+console.log ("there are some common datatypes in javaScript that are used regularly, they are a means to store variables for code /n the main ones are."),
+/n dataType1;  /n dataType2; /n dataType3, /n dataType4; /n dataType5; /n dataType6; /n dataType7; /n dataType8;
+
+
   
 
 
@@ -69,5 +72,7 @@ Create two variables: name1 and name2. Assign to name1 the string "john", and to
 
 /* let name1 = "john"
     let name2 = "John"
+    console.log (name1 === name2);
+    console.log (name1.toLowerCase () === name2.toLowerCase());
     
     */
