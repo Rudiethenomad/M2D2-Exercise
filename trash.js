@@ -9,9 +9,23 @@ ASSIGNMENT RULES
 
 /* EXERCISE 1
  Enumerate and describe the main datatypes in JavaScript. Try to explain the concepts as you were speaking to a 12 years old.
-*/
+*/ 
 
-/* WRITE YOUR ANSWER HERE */
+/* let mainDatatypes = /*numbers,operators,Modulo operator,OperatorsPrecedence,specialNumbers,Strings,
+let dataType1 = numbers;
+let datType2 = operators;
+let dataType3 = modulo;
+let dataType4 = operators-Precedence;
+let dataType5 = special-numbers;
+let dataType6 = strings;
+let dataType7 = booleans;
+let dataType8 = logic-operators;
+
+*/
+  
+
+
+/* console.log ("Description of JavaScript main datatypes", )  */
 
 /* EXERCISE 2
  Try to describe what an object is, in your own words.
@@ -23,28 +37,37 @@ ASSIGNMENT RULES
  Write the code to execute an addition (a sum) of the numbers 12 and 20.
 */
 
-/* WRITE YOUR ANSWER HERE */
+/* let sum = 12 + 20
+console.log(sum) */
 
 /* EXERCISE 4
  Create a variable named x and assign to it the number 12.
 */
 
-/* WRITE YOUR ANSWER HERE */
+/* let x = 12;
+console.log (x) */
 
 /* EXERCISE 5
  Create a variable called name and assign to it your name as a string.
 */
 
-/* WRITE YOUR ANSWER HERE */
+/* let name = "Jon"
+conslo.log(name) */
 
 /* EXERCISE 6
  Execute a subtraction between the number 4 and the variable x you declared before (which is storing the value 12).
 */
 
-/* WRITE YOUR ANSWER HERE */
+/* console.log (4-sum); */
 
 /* EXERCISE 7
 Create two variables: name1 and name2. Assign to name1 the string "john", and to name2 the string "John" (this one has a capital J!)
  Verify that name1 is different from name2 (HINT: check their equality to be false).
  Finally, verify that the equality between name1 and name2 becomes true if both are lowercase (without changing the value of name2).
  YOU DON'T NEED AN IF/ELSE BLOCK. It is enough to use console.log()
+ */
+
+/* let name1 = "john"
+    let name2 = "John"
+    
+    */
